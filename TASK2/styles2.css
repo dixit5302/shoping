@@ -40,7 +40,7 @@ img:hover{
     background: linear-gradient(to right, rgb(236, 9, 9) 50%, rgb(251, 248, 248) 50%);
     background-size: 200% 100%;
     background-position: right bottom;
-    transition: all 2.5s ease-out;
+    transition: all .5s ease-out;
 
 }
 
